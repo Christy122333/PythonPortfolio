@@ -5,4 +5,8 @@ These are projects I created in APCSP
 
 2. This code is meant to see what influencer is popular.
 
-3. This code tells you about dogs.
+3. This code helps you find your preffered dog.
+
+4. This code helps you find what Avenger you are.
+
+5. 
