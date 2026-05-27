@@ -9,4 +9,8 @@ These are projects I created in APCSP
 
 4. This code helps you find what Avenger you are.
 
-5. 
+5. This code is meant to entertain the user, they are taken through a game about Pokemon.
+
+6. This code take you through a rock paper scissors simulation.
+
+7. 
