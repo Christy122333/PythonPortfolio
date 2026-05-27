@@ -13,4 +13,6 @@ These are projects I created in APCSP
 
 6. This code take you through a rock paper scissors simulation.
 
-7. 
+7. This code is a slot machine simulator.
+
+8. This code is meant to help you organize a homework to-do list. 
