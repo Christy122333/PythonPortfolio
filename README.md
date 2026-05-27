@@ -1,2 +1,2 @@
 # PythonPortfolio
-These are project I created in APCSP
+These are projects I created in APCSP
